@@ -11,14 +11,14 @@ This repository contains artifacts supporting the DS-2002-02 Data Science System
 | Topic 1 | 08/31 | Online Transaction Processing (OLTP) Schema Design | Activity 02: Creating and Populating the Northwind Database |
 | Topic 2 | 09/05 | SQL Language and Querying Fundamentals             | **Lab 01: SQL Query Fundamentals** |
 | Topic 3 | 09/07 | Online Analytical Processing (OLAP) Schema Design  | Activity 03: Creating the Northwind_DW Data Warehouse |
-| Topic 4 | 09/12 | Extract-Transform-Load (ETL) Processing            | |
+| Topic 4 | 09/12 | Extract-Transform-Load (ETL) Processing            | <a href="https://medium.com/datatobiz/a-complete-guide-to-data-warehousing-what-is-data-warehousing-its-architecture-characteristics-863220d605d6"> Reading on DW and ETL</a>|
 | **Unit 2:** | **09/19 - 10/10** | **Python Programming for Data Engineering** | Activity 04: Installing Anaconda Python with Jupyter Notebooks|
 | Topic 1 | 09/26 | Python Fundamentals                                         | Activity 05: Python Language Basics in Jupyter Notebooks |
 | Topic 2 | 09/26 | Using Python to Interact with SQL Database Systems (MySQL)  | Activity 06: Using Python to Interact with MySQL in Jupyter Notebooks |
 | Topic 3 | 10/03 | Using Python to Interact with File System Data              | Activity 07: Using Python to Interact with Files in Jupyter Notebooks |
 | Topic 4 | 10/10 | Using Python to Interact with Application Program Interfaces (APIs) | Activity 08: Using Python to Interact with APIs in Jupyter Notebooks |
 | Topic 5 | 10/12 | Using Python to Extract, Transform and Load Data            | **Lab 04: Using Python to Perform Extract-Transform-Load (ETL) Processing** |
-| **Project 1:** | **10/12** | **Create a Data Warehouse Using Data from Various Sources** | |
+| **Project 1:** | **10/12** | **Create a Data Warehouse Using Data from Various Sources** |  |
 | **Unit 3:** | **10/17 - 11/02** | **Semi-Structured Data Systems (NoSQL)**      | |
 | Topic 1 | 10/17 | Introduction to NoSQL Database Systems                        | Activity 09: Installing MongoDB / MongoDB Atlas & MongoDB Compass |
 | Topic 2 | 10/19 | Using Python to Interact with NoSQL Database System (MongoDB) | Activity 10: Using Python to Interact with MongoDB in Jupyter Noteboks |

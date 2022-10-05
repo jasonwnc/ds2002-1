@@ -15,7 +15,7 @@ This repository contains artifacts supporting the DS-2002-02 Data Science System
 | **Unit 2:** | **09/19 - 10/10** | **Python Programming for Data Engineering** | Activity 04: Installing Anaconda Python with Jupyter Notebooks|
 | Topic 1 | 09/26 | Python Fundamentals                                         | Activity 05: Python Language Basics in Jupyter Notebooks |
 | Topic 2 | 09/28 | Using Python to Interact with SQL Database Systems (MySQL)  | Activity 06: Using Python to Interact with MySQL in Jupyter Notebooks |
-| Topic 3 | 10/03 | Using Python to Interact with File System Data              | Activity 07: Using Python to Interact with Files in Jupyter Notebooks |
+| Topic 3 | 10/05 | Using Python to Interact with File System Data              | Activity 07: Using Python to Interact with Files in Jupyter Notebooks |
 | Topic 4 | 10/10 | Using Python to Interact with Application Program Interfaces (APIs) | Activity 08: Using Python to Interact with APIs in Jupyter Notebooks |
 | Topic 5 | 10/12 | Using Python to Extract, Transform and Load Data            | **Lab 04: Using Python to Perform Extract-Transform-Load (ETL) Processing** |
 | **Project 1:** | **10/12** | **Create a Data Warehouse Using Data from Various Sources** |  |

@@ -17,8 +17,8 @@ This repository contains artifacts supporting the DS-2002-02 Data Science System
 | Topic 2 | 09/28 | Using Python to Interact with SQL Database Systems (MySQL)  | Activity 06: Using Python to Interact with MySQL in Jupyter Notebooks |
 | Topic 3 | 10/05 | Using Python to Interact with File System Data              | Activity 07: Using Python to Interact with Files in Jupyter Notebooks |
 | Topic 4 | 10/10 | Using Python to Interact with Application Program Interfaces (APIs) | **LAB 4: Using Python to Interact with APIs in Jupyter Notebooks (or any Python IDE)** |
-| Topic 5 | 10/12 | Using Python to Extract, Transform and Load Data            |  ** |
-| **Project 1:** | **10/12** | **Using Python to Perform Extract-Transform-Load (ETL) Processing from Various Sources** |  |
+| Topic 5 | 10/12 | Using Python to Extract, Transform and Load Data            |   |
+| **Project 1:** | **10/17** | **Using Python to Perform Extract-Transform-Load (ETL) Processing from Various Sources** |  |
 | **Unit 3:** | **10/17 - 11/02** | **Semi-Structured Data Systems (NoSQL)**      | |
 | Topic 1 | 10/17 | Introduction to NoSQL Database Systems                        | Activity 09: Installing MongoDB / MongoDB Atlas & MongoDB Compass |
 | Topic 2 | 10/19 | Using Python to Interact with NoSQL Database System (MongoDB) | Activity 10: Using Python to Interact with MongoDB in Jupyter Noteboks |

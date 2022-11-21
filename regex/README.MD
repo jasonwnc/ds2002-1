@@ -4,9 +4,13 @@ Read the DS3002 PDF on Regular Expressions.
 Google Assignment Part A
 https://developers.google.com/edu/python/exercises/baby-names
 
-**Resources**
+***Resources***
 This site can help you validate your regular expressions
 https://regex101.com 
+
+**RegEx Cookbook**
+https://developers.google.com/edu/python/regular-expressions
+https://www.rexegg.com/regex-cookbook.html
 
 Thanksgiving Lab/Class
 
